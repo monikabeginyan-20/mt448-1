@@ -5,8 +5,8 @@
     * ֆունկցիան պիտի վերադարձնի N հատ x-երի գումարը, հատուկ սենց գրեցի որ string-ի դեպքն էլ հասկանալի լինի
     * թեստավորել overloading-ի աշխատանքը Main() մեթոդում
 
-    ```
-    using System;
+```
+using System;
 using System.Text;
 
 class Program
@@ -50,3 +50,4 @@ class Program
         Console.WriteLine($"String (\"Beginyan\", default) -> {resultString2}");
     }
 }    
+```
