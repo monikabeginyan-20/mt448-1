@@ -63,7 +63,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        MatrixTask matrixObj = new MatrixTask(4, 1, 20);
+        MatrixTask matrixObj = new MatrixTask(4, 1, 50);
 
         matrixObj.ShowMatrix();
 
