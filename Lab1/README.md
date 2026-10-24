@@ -7,8 +7,8 @@
     * պարամետրիզացված Կոնստրուկտորով տեղադրել N, A և B դաշտերի արժեքները որից հետո կանչել FillMatrix մեթոդը
     * ցույց տալ կլասսի ֆունկիոնալությունը Main() մեթոդում
 
-   ```
-   using System;
+```
+using System;
 using System.Linq;
 
 class MatrixTask
